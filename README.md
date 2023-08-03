@@ -4,11 +4,21 @@
 
 **Welcome to NextWave! 🌊**
 
-NextWave is a personal initiative dedicated to showcasing my real npm modules that exclusively utilize ES modules. By focusing on ES-only modules, NextWave aims to promote a modern and future-proof approach to JavaScript development within my projects.
+NextWave is a personal initiative dedicated to showcasing my npm modules that exclusively utilize ES modules. By focusing on ES-only modules, NextWave aims to promote a modern and future-proof approach to JavaScript development within my projects.
 
 **Why NextWave?**
 
 ES modules offer a standardized and efficient way to write JavaScript code. By featuring my npm modules that embrace ES modules, NextWave highlights the benefits of this approach, such as improved code organization and better performance.
+
+---
+
+## 🪅 Selected projects
+
+> [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing)
+
+_🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
+
+---
 
 **Join the NextWave**
 
