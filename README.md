@@ -14,7 +14,7 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
-> [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) 📅 _04-Aug-2023_
+> [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) &nbsp; 📅 &nbsp; _04-Aug-2023_
 
 _🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
 
