@@ -44,6 +44,12 @@ _🧬 A lightweight JavaScript utility allowing deep copy-by-value of nested obj
 
 <br>
 
+> [simple-exec](https://www.npmjs.com/package/simple-exec) &nbsp; 📅 &nbsp; _22-Jun-2024_
+
+_🕺 Command. Execution. Made. Simple. ▶_
+
+<br>
+
 > [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) &nbsp; 📅 &nbsp; _04-Aug-2023_
 
 _🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
