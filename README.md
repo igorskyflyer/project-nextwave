@@ -14,7 +14,7 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
-> [encode-entities](https://www.npmjs.com/package/encode-entities) &nbsp; 📅 &nbsp; _29-Jun-2024_
+> [encode-entities](https://www.npmjs.com/package/encode-entities) &nbsp; 📅 &nbsp; _30-Jun-2024_
 
 _🏃‍♂️ Fast and simple Map and RegExp based HTML entities encoder. 🍁_
 
