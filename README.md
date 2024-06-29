@@ -14,6 +14,12 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [encode-entities](https://www.npmjs.com/package/encode-entities) &nbsp; 📅 &nbsp; _29-Jun-2024_
+
+_🏃‍♂️ Fast and simple Map and RegExp based HTML entities encoder. 🍁_
+
+<br>
+
 > [registry-apppaths](https://www.npmjs.com/package/registry-apppaths) &nbsp; 📅 &nbsp; _29-Jun-2024_
 
 _🪀 A Node.js module for reading the AppPaths registry key on Windows. Useful for retrieving applications that can be launched from the command prompt. 🗃_
