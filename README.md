@@ -14,6 +14,10 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [registry-apppaths](https://www.npmjs.com/package/registry-apppaths) &nbsp; 📅 &nbsp; _29-Jun-2024_
+
+_🪀 A Node.js module for reading the AppPaths registry key on Windows. Useful for retrieving applications that can be launched from the command prompt. 🗃_
+
 > [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) &nbsp; 📅 &nbsp; _04-Aug-2023_
 
 _🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
