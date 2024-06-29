@@ -32,6 +32,12 @@ _🪀 A Node.js module for reading the AppPaths registry key on Windows. Useful 
 
 <br>
 
+> [mp3size](https://www.npmjs.com/package/mp3size) &nbsp; 📅 &nbsp; _28-Jun-2024_
+
+_🧮 Calculates an estimated file size of Mp3 files. 🎶_
+
+<br>
+
 > [windows-packages](https://www.npmjs.com/package/windows-packages) &nbsp; 📅 &nbsp; _23-Jun-2024_
 
 _💻 A Node.js module for reading the Packages registry key on Windows 10. Useful for retrieving Windows 10 installed Store applications. 📦_
