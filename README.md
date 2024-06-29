@@ -38,6 +38,12 @@ _💻 A Node.js module for reading the Packages registry key on Windows 10. Usef
 
 <br>
 
+> [node-clone-js](https://www.npmjs.com/package/node-clone-js) &nbsp; 📅 &nbsp; _22-Jun-2024_
+
+_🧬 A lightweight JavaScript utility allowing deep copy-by-value of nested objects, arrays and arrays of objects. 🪁_
+
+<br>
+
 > [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) &nbsp; 📅 &nbsp; _04-Aug-2023_
 
 _🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
