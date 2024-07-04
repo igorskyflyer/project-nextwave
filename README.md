@@ -16,7 +16,7 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 > [@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys) &nbsp; 📅 &nbsp; _05-Jul-2024_
 
-_📚 An NPM package for fetching Windows registry keys. 🗝_
+_📚 An npm package for fetching Windows registry keys. 🗝_
 
 <br>
 
