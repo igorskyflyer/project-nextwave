@@ -14,6 +14,12 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [@igor.dvlpr/str-is-in](https://www.npmjs.com/package/@igor.dvlpr/str-is-in) &nbsp; 📅 &nbsp; _05-Jul-2024_
+
+_🧵 Provides ways of checking whether a String is present in an Array of Strings using custom Comparators. 🔍_
+
+<br>
+
 > [@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys) &nbsp; 📅 &nbsp; _05-Jul-2024_
 
 _📚 An npm package for fetching Windows registry keys. 🗝_
