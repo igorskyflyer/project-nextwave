@@ -14,6 +14,10 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [@igor.dvlpr/unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path) &nbsp; 📅 &nbsp; _04-Jul-2024_
+
+_🥽 Provides ways of parsing UNC paths and checking whether they are valid. 🎱_
+
 > [encode-entities](https://www.npmjs.com/package/encode-entities) &nbsp; 📅 &nbsp; _30-Jun-2024_
 
 _🏃‍♂️ Fast and simple Map and RegExp based HTML entities encoder. 🍁_
