@@ -14,6 +14,12 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [@igor.dvlpr/upath](https://www.npmjs.com/package/@igor.dvlpr/upath) &nbsp; 📅 &nbsp; _04-Jul-2024_
+
+_🎍 Provides a universal way of formatting file-paths in Unix-like and Windows operating systems as an alternative to the built-in path.normalize(). 🧬_
+
+<br>
+
 > [@igor.dvlpr/unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path) &nbsp; 📅 &nbsp; _04-Jul-2024_
 
 _🥽 Provides ways of parsing UNC paths and checking whether they are valid. 🎱_
