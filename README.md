@@ -14,6 +14,12 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [@igor.dvlpr/comment-it](https://www.npmjs.com/package/@igor.dvlpr/comment-it) &nbsp; 📅 &nbsp; _07-Jul-2024_
+
+_📜 Formats the provided string as a comment, either a single or a multi line comment for the given programming language. 💻_
+
+<br>
+
 > [@igor.dvlpr/duoscribi](https://www.npmjs.com/package/@igor.dvlpr/duoscribi) &nbsp; 📅 &nbsp; _07-Jul-2024_
 
 _✒ DúöScríbî allows you to convert letters with diacritics to regular, ASCII letters. 🤓_
