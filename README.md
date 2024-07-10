@@ -14,6 +14,12 @@ ES modules offer a standardized and efficient way to write JavaScript code. By f
 
 ## 🪅 Selected projects
 
+> [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) &nbsp; 📅 &nbsp; _04-Aug-2023_
+
+_🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
+
+<br>
+
 > [@igor.dvlpr/comment-it](https://www.npmjs.com/package/@igor.dvlpr/comment-it) &nbsp; 📅 &nbsp; _07-Jul-2024_
 
 _📜 Formats the provided string as a comment, either a single or a multi line comment for the given programming language. 💻_
@@ -89,12 +95,6 @@ _🧬 A lightweight JavaScript utility allowing deep copy-by-value of nested obj
 > [simple-exec](https://www.npmjs.com/package/simple-exec) &nbsp; 📅 &nbsp; _22-Jun-2024_
 
 _🕺 Command. Execution. Made. Simple. ▶_
-
-<br>
-
-> [@igor.dvlpr/zing](https://www.npmjs.com/package/@igor.dvlpr/zing) &nbsp; 📅 &nbsp; _04-Aug-2023_
-
-_🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀_
 
 ---
 
