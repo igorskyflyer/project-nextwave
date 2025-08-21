@@ -10,6 +10,12 @@
 </div>
 
 <br>
+
+<div align="center">
+    <img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress">
+</div>
+
+
 <br>
 
 ### Welcome to NextWave! 🌊
