@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  🌊 Project NextWave: Migration of Packages to a New Username 🚀
+  🌊 Project NextWave: Migration of Packages to a New Username and Scope 🚀
 </div>
 
 <br>
