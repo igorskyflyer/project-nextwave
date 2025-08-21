@@ -22,8 +22,8 @@ This migration was prompted by a long‑standing Windows‑specific compatibilit
 
 <br>
 
->
-> [!TIP] see more about the issue in the [official discussion](https://github.com/orgs/community/discussions/169922).
+> [!TIP]
+> see more about the issue in the [official discussion](https://github.com/orgs/community/discussions/169922).
 >
 
 <br>
