@@ -45,7 +45,7 @@ they can fail in modern Windows environments due to PowerShell parsing quirks an
 
 ## Progress
 
-Follow along in the [official tracker](https://github.com/igorskyflyer/project-nextwave/issues/1) as we check off packages, close out sub‑issues, and move steadily towards a fully migrated, cross‑platform‑safe ecosystem.
+Follow along in the [official tracker](https://github.com/igorskyflyer/project-nextwave/milestone/1) as we check off packages, close out sub‑issues, and move steadily towards a fully migrated, cross‑platform‑safe ecosystem.
 
 <br>
 
