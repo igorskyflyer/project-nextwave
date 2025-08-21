@@ -42,13 +42,11 @@ While such scopes are valid per the [npm specification](https://docs.npmjs.com/c
 they can fail in modern Windows environments due to PowerShell parsing quirks and cross‑platform path resolution edge cases. These inconsistencies disrupt installs and build pipelines, creating friction for maintainers and consumers alike. Project NextWave documents the full remediation process: from planning to execution, turning a one‑time fix into a reproducible blueprint other projects can adapt with minimal disruption.
 
 <br>
-<br>
 
 ## Progress
 
 Follow along in the [official tracker](https://github.com/igorskyflyer/project-nextwave/issues/1) as we check off packages, close out sub‑issues, and move steadily towards a fully migrated, cross‑platform‑safe ecosystem.
 
-<br>
 <br>
 
 ### Join the NextWave
