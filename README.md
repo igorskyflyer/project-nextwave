@@ -23,7 +23,6 @@
 🌊 Project NextWave: A living log of a large‑scale npm username/package scope migration sparked by technical issues, engineered for reproducibility, minimal disruption, and ecosystem trust. 🚀
 
 <br>
-<br>
 
 ### Why NextWave?
 
