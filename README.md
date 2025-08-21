@@ -14,7 +14,10 @@
 
 ### Welcome to NextWave! 🌊
 
-🌊 Project NextWave: A living log of a large‑scale npm username/package scope migration sparked by technical issues, engineered for reproducibility, minimal disruption, and ecosystem trust. 🚀  
+🌊 Project NextWave: A living log of a large‑scale npm username/package scope migration sparked by technical issues, engineered for reproducibility, minimal disruption, and ecosystem trust. 🚀
+
+<br>
+<br>
 
 ### Why NextWave?
 
@@ -36,11 +39,17 @@ While such scopes are valid per the [npm specification](https://docs.npmjs.com/c
 > The "`name`" field contains your package's name and must be lowercase without any spaces. May contain hyphens, dots, and underscores.
 >
 
-they can fail in modern Windows environments due to PowerShell parsing quirks and cross‑platform path resolution edge cases. These inconsistencies disrupt installs and build pipelines, creating friction for maintainers and consumers alike. Project NextWave documents the full remediation process: from planning to execution, turning a one‑time fix into a reproducible blueprint other projects can adapt with minimal disruption.  
+they can fail in modern Windows environments due to PowerShell parsing quirks and cross‑platform path resolution edge cases. These inconsistencies disrupt installs and build pipelines, creating friction for maintainers and consumers alike. Project NextWave documents the full remediation process: from planning to execution, turning a one‑time fix into a reproducible blueprint other projects can adapt with minimal disruption.
+
+<br>
+<br>
 
 ## Progress
 
 Follow along in the [official tracker](https://github.com/igorskyflyer/project-nextwave/issues/1) as we check off packages, close out sub‑issues, and move steadily towards a fully migrated, cross‑platform‑safe ecosystem.
+
+<br>
+<br>
 
 ### Join the NextWave
 
