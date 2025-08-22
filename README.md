@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-    <img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress">
+    <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
 </div>
 
 
