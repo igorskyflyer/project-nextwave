@@ -55,19 +55,18 @@ Follow along in the [official tracker](https://github.com/igorskyflyer/project-n
 
 <br>
 
-### Join the NextWave
-
-Follow along as Project NextWave turns a Windows‑only scope fix into a reproducible migration pattern the whole community can build on. 🌊
-
-<br>
-<br>
-
 > ### ⚠️ WARNING
 >
 > #### Migration slowed down
 >
 > Due to the nature of my deployment and publishing speed, npm has rate-limited my publishing. Will postpone the migration process. 😞
 >
+
+<br>
+
+### Join the NextWave
+
+Follow along as Project NextWave turns a Windows‑only scope fix into a reproducible migration pattern the whole community can build on. 🌊
 
 <br>
 <br>
