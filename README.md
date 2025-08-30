@@ -30,7 +30,10 @@ This migration was prompted by a long‑standing Windows‑specific compatibilit
 
 <br>
 
-> [!TIP]
+> ### 💡 TIP
+>
+> #### More info
+>
 > See more about the issue in the [official discussion](https://github.com/orgs/community/discussions/169922).
 >
 
@@ -57,6 +60,15 @@ Follow along in the [official tracker](https://github.com/igorskyflyer/project-n
 ### Join the NextWave
 
 Follow along as Project NextWave turns a Windows‑only scope fix into a reproducible migration pattern the whole community can build on. 🌊
+
+<br>
+
+> ### ⚠️ WARNING
+>
+> #### Migration slowed down
+>
+> Due to the nature of my deployment and publishing speed, npm has rate-limited my publishing. Will postpone the migration process. 😞
+>
 
 <br>
 
