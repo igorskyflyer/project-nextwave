@@ -28,8 +28,6 @@
 
 This migration was prompted by a long‑standing Windows‑specific compatibility issue affecting npm package scopes that contain a dot (.).
 
-<br>
-
 > ### 💡 TIP
 >
 > #### More info
