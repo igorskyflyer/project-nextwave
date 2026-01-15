@@ -71,4 +71,4 @@ Follow along as Project NextWave turns a Windows‑only scope fix into a reprodu
 <br>
 <br>
 
-**Due date: Dec 31, 2025.**
+**Due date: Jan 31, 2026.**
