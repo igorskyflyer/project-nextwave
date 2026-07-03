@@ -64,11 +64,22 @@ Follow along in the [official tracker](https://github.com/igorskyflyer/project-n
 
 <br>
 
+## Support
+
+<div align="center">
+  If his open-source projects have saved you time or improved your workflow, consider supporting their continued development via <a href="https://liberapay.com/igorskyflyer/donate"><strong>LiberaPay</a> or <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
+  <br>
+  <br>
+  <a href="https://liberapay.com/igorskyflyer/donate"><img alt="Support Igor Dimitrijević (igorskyflyer) - Donate via Liberapay to Sustain Open-Source Projects" src="https://liberapay.com/assets/widgets/donate.svg" loading="lazy"></a> <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate via Ko-Fi to Sustain Open-Source Projects" width="116" height="29" loading="lazy"></a>
+  <br>
+  <br>
+  <blockquote>
+    Support helps fund new open-source tools, maintenance, and documentation.
+  </blockquote>
+</div>
+
+<br>
+
 ### Join the NextWave
 
-Follow along as Project NextWave turns a Windows‑only scope fix into a reproducible migration pattern the whole community can build on. 🌊
-
-<br>
-<br>
-
-**Due date: Mar 31, 2026.**
+Follow along as Project NextWave turns a Windows-only scope fix into a reproducible migration pattern the whole community can build on. 🌊
